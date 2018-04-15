@@ -1,0 +1,52 @@
+.container{
+    position: relative;
+}
+
+.menu-box{
+    background-color: grey;
+    height: 112px;
+    width: 277px;
+    position: absolute;
+    top: 151px;
+    left: 80px;
+}
+
+.game-buttons{
+    position: absolute;
+    top: 40px;
+    left: 90px;
+}
+
+.pb-1{
+    height: 120px;
+}
+
+.pb-2{
+     height: 110px;
+}
+
+.hidden{
+    display:none;
+}
+
+.player-buttons{
+    position: absolute;
+    top: 7px;
+    left: 22px;
+    width: 405px;
+    height: 405px;
+}
+
+.button-position{
+    width: 133px;
+    height: 135px;
+}
+
+.tr-height{
+    height: 134px;
+}
+
+.center{
+    margin: auto;
+    width: 45%;
+}
